@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pronunciation on HackUrCulture</title>
+    <link>http://example.org/tags/pronunciation/</link>
+    <description>Recent content in Pronunciation on HackUrCulture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/pronunciation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>South African Classic Project</title>
+      <link>http://example.org/post/sadilar/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/sadilar/</guid>
+      <description>About The South African Centre for Digital Language Resources (SADiLaR) is a national centre supported by the Department of Science and Innovation (DSI) as part of the new South African Research Infrastructure Roadmap (SARIR).
+“SARIR is a high-level strategic and systemic intervention to provide research infrastructure across the entire public research system, building on existing capabilities and strengths, and drawing on future needs.” (DST SARIR brochure).
+SADiLaR has an enabling function, with a focus on all official languages of South Africa, supporting research and development in the domains of language technologies and language-related studies in the humanities and social sciences.</description>
+    </item>
+    
+  </channel>
+</rss>

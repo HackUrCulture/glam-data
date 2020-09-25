@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kids on HackUrCulture</title>
+    <link>http://example.org/tags/kids/</link>
+    <description>Recent content in Kids on HackUrCulture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/tags/kids/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book Dash</title>
+      <link>http://example.org/post/bookdash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bookdash/</guid>
+      <description>About Book Dash believes that every child should own one hundred books by the age of five. To that end, we gather creative professionals who volunteer to create new, African storybooks that anyone can freely translate, print and distribute. In this way, we have vastly reduced the costs involved in putting high-quality books in children’s hands and hearts.
+ See GLAM&amp;rsquo;s intro here  Challenges: Awareness, Sustainability, Edutainment
+Data set available: 20 different books from the Book Dash collection</description>
+    </item>
+    
+  </channel>
+</rss>

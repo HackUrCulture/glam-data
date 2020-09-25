@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainability on HackUrCulture</title>
+    <link>http://example.org/tags/sustainability/</link>
+    <description>Recent content in Sustainability on HackUrCulture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>District 6 Museum</title>
+      <link>http://example.org/post/disctrict6/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/disctrict6/</guid>
+      <description>About The ‘Hands Off District Six’ conference of 1988 led to the formation of the District Six Museum Foundation in 1989. The Foundation worked towards the establishment of the Museum which was launched on 10 December 1994 with its inaugural exhibition called Streets: Retracing District Six.
+ See GLAM&amp;rsquo;s intro here  Challenges: Remote access to archive and collection, changing business models, sustainability, education of staff to actively take steps to digitization, policy for the digital transformation of archive and collection, access to talent, implementing digital transformation, developing the correct naming convention for digital artifacts.</description>
+    </item>
+    
+    <item>
+      <title>Goethe-Institut Cameroon African German Phrasebook</title>
+      <link>http://example.org/post/africangermanphrasebook/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/africangermanphrasebook/</guid>
+      <description>The idea for this special phrase book was developed during the workshop series &amp;ldquo;Going Kompyuta&amp;rdquo; at the Goethe-Institut Cameroon. The aim was to bring together modern information technology and the promotion of African languages.
+The Android app currently offers 150 daily terms in 51 different languages. Up to three languages can be displayed simultaneously next to each other. The terms are clearly arranged in 13 categories. Simply clicking on a term starts the audio output.</description>
+    </item>
+    
+    <item>
+      <title>South African History Archive</title>
+      <link>http://example.org/post/saha/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/saha/</guid>
+      <description>About The South African History Archive (SAHA) is an independent human rights archive dedicated to documenting, supporting and promoting greater awareness of past and contemporary struggles for justice through archival practices and outreach, and the utilisation of access to information laws.
+ See GLAM&amp;rsquo;s intro here  Challenges: Sustainability, digital access to archives, awareness of the institution and its collection/archive
+Data set available:  Oral recordings and texts Photos and posters  link</description>
+    </item>
+    
+    <item>
+      <title>Book Dash</title>
+      <link>http://example.org/post/bookdash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/bookdash/</guid>
+      <description>About Book Dash believes that every child should own one hundred books by the age of five. To that end, we gather creative professionals who volunteer to create new, African storybooks that anyone can freely translate, print and distribute. In this way, we have vastly reduced the costs involved in putting high-quality books in children’s hands and hearts.
+ See GLAM&amp;rsquo;s intro here  Challenges: Awareness, Sustainability, Edutainment
+Data set available: 20 different books from the Book Dash collection</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archive on HackUrCulture</title>
+    <link>http://example.org/tags/archive/</link>
+    <description>Recent content in archive on HackUrCulture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>District 6 Museum</title>
+      <link>http://example.org/post/disctrict6/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/disctrict6/</guid>
+      <description>About The ‘Hands Off District Six’ conference of 1988 led to the formation of the District Six Museum Foundation in 1989. The Foundation worked towards the establishment of the Museum which was launched on 10 December 1994 with its inaugural exhibition called Streets: Retracing District Six.
+ See GLAM&amp;rsquo;s intro here  Challenges: Remote access to archive and collection, changing business models, sustainability, education of staff to actively take steps to digitization, policy for the digital transformation of archive and collection, access to talent, implementing digital transformation, developing the correct naming convention for digital artifacts.</description>
+    </item>
+    
+  </channel>
+</rss>

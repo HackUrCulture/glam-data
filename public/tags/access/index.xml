@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Access on HackUrCulture</title>
+    <link>http://example.org/tags/access/</link>
+    <description>Recent content in Access on HackUrCulture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/access/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Human Sciences Research Council</title>
+      <link>http://example.org/post/humansciencesresearchcouncil/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/humansciencesresearchcouncil/</guid>
+      <description>Iziko Museums of South Africa operates 11 national museums in Cape Town. It is one of the premier cultural institutions in South Africa. The museums house natural history, social history and art collections in magnificent, historic buildings which in themselves are national treasures.
+https://www.iziko.org.za/about
+Challenges: Remote access to archive, Education of staff to actively take steps towards digitisation, Policy, standards and workflow for digital transformation, Access to talent, High costs of digitisation, Implementing digital transformation, Developing the right naming convention for cultural heritage artefacts with unknown or scarce historical information, taking into account community knowledge and narratives.</description>
+    </item>
+    
+  </channel>
+</rss>
